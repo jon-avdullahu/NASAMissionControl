@@ -35,7 +35,9 @@ To use this application (after installation):
 If everything was installed as mentioned above, you should be able to see the NASA Mission Control Webpage, with fully functional Launches and History.
 ```
 
+<img width="640" alt="Postman Example" src="https://github.com/user-attachments/assets/f2ee4e7f-b48d-4442-9297-c9dc82ed54ac">
 
+<img width="1440" alt="NASA Mission Control Example" src="https://github.com/user-attachments/assets/072a53b4-fe08-4e2f-a5e3-60bfa0610539">
 
 
 ## License
